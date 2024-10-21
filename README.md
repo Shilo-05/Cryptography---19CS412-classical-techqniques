@@ -1,4 +1,5 @@
-# Cryptography---19CS412-classical-techqniques
+# Cryptography---19CS412-classical-techniques
+
 # Caeser Cipher
 Caeser Cipher using with different key values
 
@@ -73,14 +74,14 @@ caesarDecrypt(message, key); printf("Decrypted Message: %s", message); return 0;
 }
 
 ```
+
 ## OUTPUT:
 OUTPUT:
 Simulating Caesar Cipher
 
+![image](https://github.com/user-attachments/assets/b45fe1bf-9e96-4d2b-816b-adf1582b8438)
 
-Input : Anna University
-Encrypted Message : Dqqd Xqlyhuvlwb 
-Decrypted Message : Anna University
+
 
 ## RESULT:
 The program is executed successfully
