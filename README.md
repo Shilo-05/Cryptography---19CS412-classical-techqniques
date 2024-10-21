@@ -3,9 +3,10 @@
 # Caeser Cipher
 Caeser Cipher using with different key values
 
-### Name: Oswald Shilo
-### Reg No: 212223040139
-
+```
+Name: Oswald Shilo
+Reg No: 212223040139
+```
 
 # AIM:
 
@@ -90,6 +91,11 @@ The program is executed successfully
 
 # PlayFair Cipher
 Playfair Cipher using with different key values
+
+```
+Name: Oswald Shilo
+Reg No: 212223040139
+```
 
 # AIM:
 
@@ -358,6 +364,11 @@ The program is executed successfully
 # Hill Cipher
 Hill Cipher using with different key values
 
+```
+Name: Oswald Shilo
+Reg No: 212223040139
+```
+
 # AIM:
 
 To develop a simple C program to implement Hill Cipher.
@@ -496,6 +507,11 @@ The program is executed successfully
 # Vigenere Cipher
 Vigenere Cipher using with different key values
 
+```
+Name: Oswald Shilo
+Reg No: 212223040139
+```
+
 # AIM:
 
 To develop a simple C program to implement Vigenere Cipher.
@@ -613,6 +629,11 @@ The program is executed successfully
 
 # Rail Fence Cipher
 Rail Fence Cipher using with different key values
+
+```
+Name: Oswald Shilo
+Reg No: 212223040139
+```
 
 # AIM:
 
